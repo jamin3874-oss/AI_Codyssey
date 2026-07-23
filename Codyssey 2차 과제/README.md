@@ -113,7 +113,9 @@
         !image.png
         
     - 영상
-        
+  https://github.com/user-attachments/assets/0569d053-2a78-48d5-999c-2f7f9f2a2b4c
+
+
         
 - 씬 2
     
