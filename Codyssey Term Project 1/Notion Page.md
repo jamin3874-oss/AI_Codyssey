@@ -1,3 +1,21 @@
-##AI 뉴스 요약 DB
+# TechCrunch Mobility: Two roads diverged — for robotaxis
 
-RSS에서 수집한 최신 기술 뉴스를 AI로 요약해 저장하는 자동화용 데이터베이스입니다. 원문 URL 또는 GUID로 중복 여부를 확인한 뒤 새 기사만 추가합니다.
+Fresh off its Wiz payout, Index Ventures raises $2B across three funds
+
+GM and Ford are talking less and less about EVs
+
+Apple stockpiles inventory as it braces for ‘significant supply constraints’
+
+TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come
+
+As AI content floods the internet, Pangram raises $9M to detect it
+
+Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+
+HBO Max embraces vertical video with a new ‘Shorts’ feed
+
+Saudi prince buys 5% stake in Lucid Motors
+
+Making sense of the panic over Chinese AI
+
+Waymo reportedly mulling a breakup with Uber
